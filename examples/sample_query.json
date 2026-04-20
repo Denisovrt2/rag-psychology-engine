@@ -1,0 +1,10 @@
+{
+  "user_query": "Ребенок 9 лет сильно тревожится перед школой, плохо засыпает и начинает плакать вечером перед учебными днями. Что может стоять за этим состоянием и на что родителю обратить внимание в первую очередь?",
+  "query_type": "parent_case",
+  "retrieval_goal": "find_relevant_psychology_evidence",
+  "expected_system_behavior": {
+    "prioritize_grounded_answer": true,
+    "avoid_generic_llm_advice": true,
+    "use_retrieved_fragments_first": true
+  }
+}
